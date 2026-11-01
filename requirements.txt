@@ -1,0 +1,3 @@
+# Core planner/timing code and the demo have no dependencies.
+# Full pipeline extras (install manually): faster-whisper, Piper, ffmpeg, Node + Remotion.
+pytest
